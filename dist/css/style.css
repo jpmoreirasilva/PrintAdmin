@@ -1,0 +1,46 @@
+*{
+	font-size: 12px !important;
+}
+
+h6{
+	font-size: 14px !important;
+}
+
+h5{
+	font-size: 16px !important;
+}
+
+h4{
+	font-size: 18px !important;
+}
+
+.dataTable_paginate{
+	display: flex !important;
+	justify-content: end !important;
+}
+
+.dataTable_filter{
+	display: flex !important;
+	justify-content: end !important;
+}
+
+.badge{
+	padding: 5px 10px !important;
+	border-radius: 3px !important;
+}
+
+.vertical {
+  display: inline-block;
+  width: 20%;
+  height: 40px;
+  -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+  transform: rotate(-90deg);
+}
+
+.vertical {
+  box-shadow: inset 0px 4px 6px #ccc;
+}
+
+.progress-bar {
+  box-shadow: inset 0px 4px 6px rgba(100,100,100,0.6);
+}

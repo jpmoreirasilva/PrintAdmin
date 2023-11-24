@@ -1,0 +1,6 @@
+{
+    "require": {
+        "geerlingguy/ping": "^1.2",
+		"obray/ipp": "dev-master"
+    }
+}
